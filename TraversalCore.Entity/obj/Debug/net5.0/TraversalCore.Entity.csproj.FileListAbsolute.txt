@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\TraversalCore\TraversalCore\TraversalCore.Entity\bin\Debug\net5.0\TraversalCore.Entity.deps.json
+C:\Users\user\Desktop\TraversalCore\TraversalCore\TraversalCore.Entity\bin\Debug\net5.0\TraversalCore.Entity.runtimeconfig.json
+C:\Users\user\Desktop\TraversalCore\TraversalCore\TraversalCore.Entity\bin\Debug\net5.0\TraversalCore.Entity.runtimeconfig.dev.json
+C:\Users\user\Desktop\TraversalCore\TraversalCore\TraversalCore.Entity\bin\Debug\net5.0\TraversalCore.Entity.dll
+C:\Users\user\Desktop\TraversalCore\TraversalCore\TraversalCore.Entity\bin\Debug\net5.0\TraversalCore.Entity.pdb
+C:\Users\user\Desktop\TraversalCore\TraversalCore\TraversalCore.Entity\obj\Debug\net5.0\TraversalCore.Entity.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TraversalCore\TraversalCore\TraversalCore.Entity\obj\Debug\net5.0\TraversalCore.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TraversalCore\TraversalCore\TraversalCore.Entity\obj\Debug\net5.0\TraversalCore.Entity.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TraversalCore\TraversalCore\TraversalCore.Entity\obj\Debug\net5.0\TraversalCore.Entity.AssemblyInfo.cs
+C:\Users\user\Desktop\TraversalCore\TraversalCore\TraversalCore.Entity\obj\Debug\net5.0\TraversalCore.Entity.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TraversalCore\TraversalCore\TraversalCore.Entity\obj\Debug\net5.0\TraversalCore.Entity.dll
+C:\Users\user\Desktop\TraversalCore\TraversalCore\TraversalCore.Entity\obj\Debug\net5.0\refint\TraversalCore.Entity.dll
+C:\Users\user\Desktop\TraversalCore\TraversalCore\TraversalCore.Entity\obj\Debug\net5.0\TraversalCore.Entity.pdb
+C:\Users\user\Desktop\TraversalCore\TraversalCore\TraversalCore.Entity\obj\Debug\net5.0\TraversalCore.Entity.genruntimeconfig.cache
+C:\Users\user\Desktop\TraversalCore\TraversalCore\TraversalCore.Entity\obj\Debug\net5.0\ref\TraversalCore.Entity.dll
